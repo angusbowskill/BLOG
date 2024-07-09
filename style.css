@@ -128,9 +128,30 @@ img {
     top: 6500px;
 }
 
-/* #img16 {
-    width: 10px;
-    height: 10px;
-    left: 2200px;
-    top: 10000px;
-} */
+#img16 {
+    width: 100px;
+    height: 50px;
+    left: 20px;
+    top: 5px;
+}
+
+#img17 {
+    width: 100px;
+    height: 50px;
+    left: 122px;
+    top: 5px;
+}
+
+#img18 {
+    width: 100px;
+    height: 50px;
+    left: 220px;
+    top: 5px;
+}
+
+#img19 {
+    width: 100px;
+    height: 50px;
+    left: 325px;
+    top: 5px;
+}
