@@ -60,3 +60,52 @@ img {
     left: 650px;
     top: 150px;
 }
+
+#img24 {
+    width: 500px;
+    height: 300px;
+    left: 900px;
+    top: 755px;
+}
+
+#img6 {
+    width: 10px;
+    height: 10px;
+    left: 820px;
+    top: 10000px;
+}
+
+#img25 {
+    width: 800px;
+    height: 600px;
+    left: 50px;
+    top: 900px;
+}
+
+#img26 {
+    width: 500px;
+    height: 650px;
+    left: 1150px;
+    top: 1150px;
+}
+
+#img27 {
+    width: 200px;
+    height: 70px;
+    left: 1150px;
+    top: 1800px;
+}
+
+#img28 {
+    width: 500px;
+    height: 650px;
+    left: 300px;
+    top: 1600px;
+}
+
+#img29 {
+    width: 800px;
+    height: 500px;
+    left: 900px;
+    top: 2000px;
+}
