@@ -129,37 +129,37 @@ img {
 }
 
 #img16 {
-    width: 100px;
-    height: 50px;
+    width: 120px;
+    height: 70px;
     left: 20px;
     top: 5px;
 }
 
 #img17 {
-    width: 100px;
-    height: 50px;
-    left: 122px;
+    width: 120px;
+    height: 70px;
+    left: 140px;
     top: 5px;
 }
 
 #img18 {
-    width: 100px;
-    height: 50px;
-    left: 220px;
+    width: 120px;
+    height: 70px;
+    left: 250px;
     top: 5px;
 }
 
 #img19 {
-    width: 100px;
-    height: 50px;
-    left: 325px;
+    width: 120px;
+    height: 70px;
+    left: 370px;
     top: 5px;
 }
 
 #img20 {
-    width: 100px;
-    height: 50px;
-    left: 435px;
+    width: 120px;
+    height: 70px;
+    left: 500px;
     top: 5px;
 }
 
@@ -168,4 +168,25 @@ img {
     height: 10px;
     left: 1500px;
     top: 150px;
+}
+
+#img30 {
+    width: 900px;
+    height: 700px;
+    left: 320px;
+    top: 7300px;
+}
+
+#img31 {
+    width: 600px;
+    height: 700px;
+    left: 120px;
+    top: 8100px;
+}
+
+#img32 {
+    width: 600px;
+    height: 700px;
+    left: 820px;
+    top: 8100px;
 }
